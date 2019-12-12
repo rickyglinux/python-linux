@@ -1,2 +1,2 @@
 # python-linux
-Linux python system tools
+Linux system tools
